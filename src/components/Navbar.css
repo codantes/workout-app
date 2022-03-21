@@ -1,0 +1,28 @@
+nav {
+    font-family: var(--heading);
+    padding-inline: 1.5rem;
+    border-bottom: 3px solid midnightblue;
+    background: midnightblue;
+    color: white;
+    padding-block: 1rem;
+}
+
+nav .logo{
+    text-transform: uppercase;
+    font-size: 28px;
+    font-style: italic;
+    cursor: pointer;
+}
+
+
+.logo a{
+    text-decoration: none;
+    color:white;
+    cursor: pointer;
+}
+
+@media (min-width:801px){
+    nav{
+        padding-inline: 4rem;
+    }
+}

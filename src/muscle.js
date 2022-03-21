@@ -1,11 +1,12 @@
 export default [
-    {
-        "shoulder": [
+    {   
+        "muscle": "shoulders",
+        "workouts": [
             {
                 name: "single arm rear delt fly",
                 level: "intermeditate",
                 embedId: "qCigx26NqZw",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 steps: [
                     "Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs.",
                     "Bend forward at the hips bringing the kettlebell to the floor while you slightly bend your knees, keeping your back straight.",
@@ -16,7 +17,7 @@ export default [
             {
                 name: "front raise",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "bZGiJPGS_oo",
                 steps: [
                     "Stand up straight with feet shoulder width apart, holding the kettlebell in front of your pelvis.",
@@ -27,7 +28,7 @@ export default [
             {
                 name: "lateral raise",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "lAD8HRAYtF0",
                 steps: [
                     "Stand with feet shoulder width apart holding a kettlebell with one hand at your side.",
@@ -38,7 +39,7 @@ export default [
             {
                 name: "elevate pike press",
                 level: "intermeditate",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "sposDXWEB0A",
                 steps: [
                     "Use a bench or an object to elevate your feet.",
@@ -50,7 +51,7 @@ export default [
             {
                 name: "decline push ups",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "5QFjmotLfW4",
                 steps: [
                     "Use a bench to elevate your feet.",
@@ -62,8 +63,8 @@ export default [
             {
                 name: "bench dips",
                 level: "beginner",
-                equiment: "bodyweight",
-                embedId: "5QFjmotLfW4",
+                equipment: "bodyweight",
+                embedId: "c3ZGl4pAwZ4",
                 steps: [
                     "Grip the edge of the bench with your hands, Keep your feet together and legs straight.",
                     "Lower your body straight down.",
@@ -78,7 +79,7 @@ export default [
             {
                 name: "single arm chest press",
                 level: "beginner",
-                equiment: "kettlebell",
+                equpment: "kettlebell",
                 embedId: "tB7fzepedas",
                 steps: [
                     "Laying on the floor with your knees bent and feet firmly on the floor, leave one arm resting to the side of the body.",
@@ -90,7 +91,7 @@ export default [
             {
                 name: "single arm chest fly",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "2dT5j3vSIyY",
                 steps: [
                     "Lie on the floor with your knees bent and feet firmly on the floor, with your arms to the side of your body.",
@@ -101,7 +102,7 @@ export default [
             {
                 name: "kettlebell walkover pushups",
                 level: "intermediate",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "KCPkOu-zq6A",
                 steps: [
                     "Starting in a press up position with feet wide and one hand resting on the kettlebell, complete a full press up, lowering your chest towards the ground while keeping your body straight and returning to the starting position.",
@@ -112,7 +113,7 @@ export default [
             {
                 name: "dips",
                 level: "level intermediate",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "dX_nSOOJIsE",
                 steps: [
                     "Hold your body with arms locked above the equipment",
@@ -123,7 +124,7 @@ export default [
             {
                 name: "push up",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "Lz4VOh4iJdg",
                 steps: [
                     "Place your hands firmly on the ground, directly under shoulders.",
@@ -135,7 +136,7 @@ export default [
             {
                 name: "incline push up",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "cfns5VDVVvk",
                 steps: [
                     "Stand facing bench or sturdy elevated platform.",
@@ -147,7 +148,7 @@ export default [
             {
                 name: "decline push up",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "5QFjmotLfW4",
                 steps: [
                     "Use a bench to elevate your feet.",
@@ -163,7 +164,7 @@ export default [
             {
                 name: "single arm curls",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "OfgQrQCLJsk",
                 steps: [
                     "Stand up straight with a kettlebell in one hand with your forearm facing out.",
@@ -174,7 +175,7 @@ export default [
             {
                 name: "preacher curl",
                 level: "intermediate",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "GSMzJuLd-TU",
                 steps: [
                     "Stand behind a bench, with your chest leaning over the edge of the bench.",
@@ -186,7 +187,7 @@ export default [
             {
                 name: "concentration curl",
                 level: "intermediate",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "JyPqKfSOyhM",
                 steps: [
                     "Sitting on a chair with your legs apart, rest your arm against your thigh and hold the kettlebell with your arm extended towards the floor.",
@@ -198,7 +199,7 @@ export default [
             {
                 name: "chin-ups",
                 level: "intermediate",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "mjNHoibfrMo",
                 steps: [
                     "Grab the bar shoulder width apart with a supinated grip (palms facing you)",
@@ -209,7 +210,7 @@ export default [
             {
                 name: "inverted row",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "GdyhjXlxE-U",
                 steps: [
                     "Lay underneath a fixed horizontal bar and grab the bar with a wide overhand grip.",
@@ -224,7 +225,7 @@ export default [
             {
                 name: "skulll crusher",
                 level: "intermediate",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Lie on your back with knees in the air and soles of your feet flat on the floor.",
@@ -236,7 +237,7 @@ export default [
             {
                 name: "tate press",
                 level: "intermediate",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Lie flat on your back. Keeping your arm straight, hold the kettlebell above your chest with your palm facing away from your body.",
@@ -247,7 +248,7 @@ export default [
             {
                 name: "standin triceps extensios",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Stand with legs shoulder width apart.",
@@ -259,7 +260,7 @@ export default [
             {
                 name: "dips",
                 level: "intermediate",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "dX_nSOOJIsE",
                 steps: [
                     "Hold your body with arms locked above the equipment",
@@ -270,7 +271,7 @@ export default [
             {
                 name: "push up",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "Lz4VOh4iJdg",
                 steps: [
                     "Place your hands firmly on the ground, directly under shoulders.",
@@ -282,7 +283,7 @@ export default [
             {
                     name: "elevate pike press",
                     level: "intermeditate",
-                    equiment: "bodyweight",
+                    equipment: "bodyweight",
                     embedId: "sposDXWEB0A",
                     steps: [
                         "Use a bench or an object to elevate your feet.",
@@ -294,7 +295,7 @@ export default [
             {
                 name: "bench dips",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Grip the edge of the bench with your hands, Keep your feet together and legs straight.",
@@ -306,7 +307,7 @@ export default [
             {
                 name: "elevate pike press",
                 level: "intermeditate",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "sposDXWEB0A",
                 steps: [
                     "Use a bench or an object to elevate your feet.",
@@ -322,7 +323,7 @@ export default [
             {
                 name: "windmill",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "",
                 steps: [
                     "Stand with feet slightly wider than shoulder width apart. Hold the kettlebell in one hand and extend your arm above your head.",
@@ -333,7 +334,7 @@ export default [
             {
                 name: "situp",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Lay flat on your back with straight legs and hold the kettle bell above your chest at arm’s length",
@@ -344,7 +345,7 @@ export default [
             {
                 name: "woodchopper",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Stand with feet slightly wider than shoulder width apart and hold the kettle bell with both hands against your hip.",
@@ -355,7 +356,7 @@ export default [
             {
                 name: "russian twist",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Sit on the floor with your legs bent, knees together and feet raised slightly off the floor.",
@@ -367,7 +368,7 @@ export default [
             {
                 name: "cruches",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Lay flat on your back with your knees bent and your feet flat on the ground, about a foot from your lower back.",
@@ -378,7 +379,7 @@ export default [
             {
                 name: "laying leg raises",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Lay on your back with your arms palms down on either side.",
@@ -390,7 +391,7 @@ export default [
             {
                 name: "hanging leg raises",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Grab the bar and hang, your body still and your legs straight.",
@@ -407,7 +408,7 @@ export default [
             {
                 name: "kettlebell shrug",
                 level: "intermediate",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs.",
@@ -418,7 +419,7 @@ export default [
             {
                 name: "row",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs.",
@@ -429,7 +430,7 @@ export default [
             {
                 name: "deadlift",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs.",
@@ -440,7 +441,7 @@ export default [
             {
                 name: "pull ups",
                 level: "intermediate",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Grasp the bar with an overhand grip, arms and shoulders fully extended.",
@@ -451,7 +452,7 @@ export default [
             {
                 name: "elevate pike press",
                 level: "intermeditate",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "sposDXWEB0A",
                 steps: [
                     "Use a bench or an object to elevate your feet.",
@@ -463,7 +464,7 @@ export default [
             {
                 name: "inverted row",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Lay underneath a fixed horizontal bar and grab the bar with a wide overhand grip.",
@@ -478,7 +479,7 @@ export default [
             {
                 name: "pull ups",
                 level: "intermediate",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Grasp the bar with an overhand grip, arms and shoulders fully extended.",
@@ -489,7 +490,7 @@ export default [
             {
                 name: "inverted row",
                 level: "beginner",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Lay underneath a fixed horizontal bar and grab the bar with a wide overhand grip.",
@@ -500,7 +501,7 @@ export default [
             {
                 name: "row",
                 level: "beginner",
-                equiment: "kettlebell",
+                equipment: "kettlebell",
                 embedId: "WI65hEZ3wQ4",
                 steps: [
                     "Stand with your feet shoulder width apart holding the kettlebell with both hands in front of your thighs.",
@@ -550,7 +551,7 @@ export default [
             {
                 name: "chin-ups",
                 level: "intermediate",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "mjNHoibfrMo",
                 steps: [
                     "Grab the bar shoulder width apart with a supinated grip (palms facing you)",
@@ -561,7 +562,7 @@ export default [
             {
                 name: "chin-ups",
                 level: "intermediate",
-                equiment: "bodyweight",
+                equipment: "bodyweight",
                 embedId: "mjNHoibfrMo",
                 steps: [
                     "Grab the bar shoulder width apart with a supinated grip (palms facing you)",

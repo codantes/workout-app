@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&family=Roboto+Condensed:ital@0;1&family=Roboto:ital@0;1&family=Ubuntu:wght@300;400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+:root{
+    --heading: 'Roboto Condensed', sans-serif;
+    --subheading: 'Roboto', sans-serif;
+    --para:  'Ubuntu', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section h1{
+    font-family: var(--heading);
+    font-size: 35px;
+}
+
+section h2{
+    font-family: var(--para);
+}
