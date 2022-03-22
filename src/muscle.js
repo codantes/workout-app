@@ -4,7 +4,7 @@ export default [
         "workouts": [
             {
                 name: "single arm rear delt fly",
-                level: "intermeditate",
+                level: "intermediate",
                 embedId: "qCigx26NqZw",
                 equipment: "kettlebell",
                 steps: [
@@ -38,7 +38,7 @@ export default [
             },
             {
                 name: "elevate pike press",
-                level: "intermeditate",
+                level: "intermediate",
                 equipment: "bodyweight",
                 embedId: "sposDXWEB0A",
                 steps: [

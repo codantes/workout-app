@@ -2,7 +2,6 @@ import React from 'react';
 import './ExerciseDisplay.css';
 
 const ExerciseDisplay = (props) => {
-    console.log(props.steps);
     const steps = props.steps.map(step => {
         return(
             <li>{step}</li>
@@ -12,12 +11,20 @@ const ExerciseDisplay = (props) => {
     const levelStyle = {
         background : (props.level == "beginner")? "green" : "red"
     }
+    const equipmentStyle = {
+        background : (props.equipment == "bodyweight")? "green" : "red"
+    }
     return ( 
         <section className="exercise">
             <h2 className='exercise-name'>{props.name}</h2>
+            <section className="filter-markers">
             <div className="exercise-level" style={levelStyle}>
                 <h2 >{props.level}</h2>
             </div>
+            <div className="exercise-equipment" style={equipmentStyle}>
+                <h2 >{props.equipment}</h2>
+            </div>
+            </section>
             <div className="iframe-container">
                 <iframe
                 loading="lazy"

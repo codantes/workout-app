@@ -17,10 +17,25 @@
     color: midnightblue;
 }
 
+.filter-markers div{
+    margin-block-end: 0.3rem;
+    margin-inline-end: 0;
+}
+
 .exercise-level{
     text-align: center;
-    position: absolute;
-    right: 5%;
+    width: 7rem;
+    color: white;
+    height: 1.2rem;
+    font-size: 13px;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 0.1rem;
+    text-transform: capitalize;
+}
+
+.exercise-equipment{
+    text-align: center;
     width: 7rem;
     color: white;
     height: 1.2rem;
@@ -68,5 +83,14 @@ iframe {
     .exercise{
         width: 60%;
         margin-inline: auto;
+    }
+
+    .exercise-name{
+        font-size: 30px
+        ;
+    }
+
+    .steps{
+        font-size: 20px;
     }
 }
