@@ -1,6 +1,5 @@
 import React from 'react';
 import data from '../muscle.js';
-import ExerciseDisplay from '../components/ExerciseDisplay';
 import ExerciseFilter from '../components/ExerciseFilter.js';
 
 const Shoulders = () => {

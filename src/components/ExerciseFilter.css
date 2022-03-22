@@ -6,7 +6,7 @@
 
 .muscle-name{
     text-align: center;
-    margin-block: 1rem;
+    margin-block: 2rem;
     color: midnightblue;
     text-transform: capitalize;
     font-size: 45px;
@@ -29,15 +29,32 @@
 #bodyweight, #beginner{
     border: 2px solid yellowgreen;
     color: yellowgreen;
+    cursor: pointer;
+    transition: all ease 0.3s;
 }
 
 #kettlebell, #intermediate{
     border: 2px solid red;
     color: red;
+    cursor: pointer;
+    transition: all ease 0.3s;
 }
 
 .filter button{
     margin-inline: .5rem;
+}
+
+.home-link{
+    margin-block: 3rem;
+    font-size: 25px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.home-link a{
+    text-decoration:underline 3px orangered ;
+    color: midnightblue;
+    text-transform: capitalize;
 }
 
 @media (min-width: 801px) {
@@ -49,6 +66,6 @@
     }
 
     .muscle-name{
-        font-size: 60px;
+        font-size: 65px;
     }
 }

@@ -74,8 +74,9 @@ export default [
             },
         ]
     },
-    {
-        "chest": [
+    {   
+        "muscle": "chest",
+        "workouts": [
             {
                 name: "single arm chest press",
                 level: "beginner",
@@ -160,7 +161,8 @@ export default [
         ]
     },
     {
-        "biceps": [
+        "muscle": "biceps",
+        "workouts": [
             {
                 name: "single arm curls",
                 level: "beginner",
@@ -221,7 +223,8 @@ export default [
         ]
     },
     {
-        "triceps": [
+        "muscle": "triceps",
+        "workouts": [
             {
                 name: "skulll crusher",
                 level: "intermediate",
@@ -319,7 +322,8 @@ export default [
         ]
     },
     {
-        "abs" : [
+        "muscle": "abs",
+        "workouts" : [
             {
                 name: "windmill",
                 level: "beginner",
@@ -403,8 +407,8 @@ export default [
         ]
     },
     {
-
-        "traps" : [
+        "muscle": "traps(mid-back)",
+        "workouts" : [
             {
                 name: "kettlebell shrug",
                 level: "intermediate",
@@ -475,7 +479,8 @@ export default [
         ]
     },
     {
-        "lats": [
+        "muscle": "lats",
+        "workouts": [
             {
                 name: "pull ups",
                 level: "intermediate",
@@ -525,7 +530,8 @@ export default [
 
     },
     {
-        "forearms":[
+        "muscle": "forearms",
+        "workouts":[
             {
                 name: "wrist curl",
                 level: "beginner",
@@ -573,7 +579,8 @@ export default [
         ]
     },
     {
-        "quads" : [
+        "muscle": "quads",
+        "workouts" : [
             {
                 name: "forward lunge",
                 level: "beginner",
@@ -668,7 +675,8 @@ export default [
         ]
     },
     {
-        "calves" : [
+        "muscle": "calves",
+        "workouts" : [
             {
                 name: "kettlebell calf raise",
                 level: "beginner",
@@ -716,7 +724,8 @@ export default [
         ]
     },
     {
-        "glutes" : [
+        "muscle": "glutes",
+        "workouts" : [
             {
                 name: "glute bridge",
                 level: "beginner",
@@ -790,7 +799,8 @@ export default [
     },
 
     {
-        "hamstrings": [
+        "muscle": "hamstrings",
+        "workouts": [
             {
                 name: "staggered deadlift",
                 level: "beginner",

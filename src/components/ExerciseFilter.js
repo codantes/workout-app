@@ -2,6 +2,7 @@ import { Action } from 'history';
 import React from 'react';
 import ExerciseDisplay from './ExerciseDisplay';
 import './ExerciseFilter.css';
+import { Link } from 'react-router-dom';
 
 const ExerciseFilter = (props) => {
     const intialLevel = {
@@ -162,6 +163,7 @@ const ExerciseFilter = (props) => {
 
             </section>
             {exercises}
+            <h2 className='home-link'><Link to="/">Train more muscles</Link></h2>
         </section>
      );
 }

@@ -17,6 +17,7 @@ import Calves from './pages/Calves.js';
 import Glutes from './pages/Glutes.js';
 
 function App(){
+    console.log(data);
     return(
         <>
         <Router>
