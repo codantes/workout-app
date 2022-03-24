@@ -800,7 +800,7 @@ export default [
 
     {
         "muscle": "hamstrings",
-        "workouts": [
+        "workoutss": [
             {
                 name: "staggered deadlift",
                 level: "beginner",

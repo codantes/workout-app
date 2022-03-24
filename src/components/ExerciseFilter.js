@@ -58,6 +58,7 @@ const ExerciseFilter = (props) => {
     const levelFiltering = (event) => {
         let btn = event.target.id;
         setLevelFilter(intialLevel);
+        
         setLevelFilter(prev => ({...prev, [btn] : !(prev[btn])}));
         switch(btn){
             case "beginner":
